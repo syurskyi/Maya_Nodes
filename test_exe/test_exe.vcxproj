@@ -20,8 +20,8 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{031521C9-D93D-4B9C-8D24-7BBA28BA28BF}</ProjectGuid>
-    <RootNamespace>mayamatchnodes</RootNamespace>
+    <ProjectGuid>{066E1E88-C9C7-4E67-B93B-39596780CC37}</ProjectGuid>
+    <RootNamespace>testexe</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.18362.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -123,10 +123,6 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="app.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="headers\app.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
