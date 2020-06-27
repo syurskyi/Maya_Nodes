@@ -48,6 +48,7 @@
 
 #include <assert.h>
 
+
 // Foot Data
 //
 static float sole[][3] = { {  0.00f, 0.0f, -0.70f },
